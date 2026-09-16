@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=slindenberg&layout=compact&langs_count=16&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=slindenberg&layout=compact&langs_count=16&theme=dark)
-
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=slindenberg&layout=compact&theme=dark)](https://github.com/stats-organization/github-stats-extended)
