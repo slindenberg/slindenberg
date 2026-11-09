@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=slindenberg&layout=compact&theme=dark)](https://github.com/stats-organization/github-stats-extended)
